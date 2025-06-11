@@ -1,6 +1,6 @@
-# Hi there 👋😄
+# Hiho! 👋😄
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! My laboratory where I do my experiments 😄
 
 I am Software Engineer living in Netherlands working for WAES focused on developing back-end and DevOps solutions for clients I’ve had the pleasure to work with.
 
