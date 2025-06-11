@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-- 🔥 My main stack is **Java** and **Spring Boot**
+- 🔥 My main stack is **Java** and **Spring Boot** and I play with **Angular** sometimes :P
 - ⚙️ Enthusiast of **DevOps**, especially with **Kubernetes** and **Azure**
 - 🛡️ Currently learning **DevSecOps** best practices
 - 💡 Always open to new challenges and eager to learn!
