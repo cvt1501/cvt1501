@@ -10,3 +10,8 @@ Welcome to my GitHub profile!
 Let's connect!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvt1501)](https://github.com/cvt1501)
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/kevin-cavenatti-a5063410a/)  
+- 📧 E-mail: kevin_cavenatti@hotmail.com
