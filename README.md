@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I am a Software Engineer focused on developing back-end and DevOps solutions for clients I’ve had the pleasure to work with.
+I am Software Engineer living in Netherlands working for WAES focused on developing back-end and DevOps solutions for clients I’ve had the pleasure to work with.
 
 - 🔥 My main stack: **Java** ☕️, **Kotlin** 💙, **Spring Boot** 🌱
 - ⚙️ DevOps enthusiast, especially with **Kubernetes** ☸️ and **Azure** ☁️
