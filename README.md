@@ -11,4 +11,4 @@ I am Software Engineer living in Netherlands working for Jumbo focused on develo
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/kevin-cavenatti-a5063410a/)  
-- 📧 E-mail: kevin_cavenatti@hotmail.com
+- kevin_cavenatti@hotmail.com
